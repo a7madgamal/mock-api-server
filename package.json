@@ -11,7 +11,7 @@
   "dependencies": {
     "async": "~0.2.9",
     "coffee-script-redux": "2.0.0-beta7",
-    "express": "3.4.2",
+    "express": "4.15.5",
     "underscore": "~1.4.4",
     "clumber": "~0.3.0",
     "debug": "~2.1.1"
