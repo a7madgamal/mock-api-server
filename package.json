@@ -9,7 +9,7 @@
     "mock-api-server": "bin/mock-api-server"
   },
   "dependencies": {
-    "async": "~0.2.9",
+    "async": "~3.2.2",
     "coffee-script-redux": "2.0.0-beta7",
     "express": "3.4.2",
     "underscore": "~1.4.4",
